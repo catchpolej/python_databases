@@ -1,0 +1,20 @@
+<data>
+    <items>
+        <item name="one"></item>
+        <item name="two"></item>
+        <item name="three"></item>
+        <item name="four"></item>
+    </items>
+    <students>
+        <student name="max"></student>
+        <student name="joe"></student>
+        <student name="charlie"></student>
+        <student name="brandon"></student>
+    </students>
+    <teachers>
+    	<teacher name="mr catchpole" >
+    		<age>34</age>
+    	</teacher>
+    	<teacher name="mr gillhespey" age="33" ></teacher>
+    </teachers>
+</data>

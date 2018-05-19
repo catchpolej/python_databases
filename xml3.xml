@@ -1,0 +1,13 @@
+<data>
+    <pages>
+        <page category="blog"></page>
+        <page category="social_media"></page>
+        <page category="video"></page>
+        <page category="educational"></page>
+        <page category="business">
+		<purpose>advertising</purpose>
+		<purpose>online_sales</purpose>
+		<purpose>product_list</purpose>
+	   </page>
+    </pages>
+</data>
